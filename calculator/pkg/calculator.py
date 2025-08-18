@@ -1,5 +1,3 @@
-# def add(a, b): return a + b
-
 # --- calculator/pkg/calculator.py ---
 
 precedence = {'+': 2, '-': 2, '*': 3, '/': 3}

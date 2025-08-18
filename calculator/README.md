@@ -1,1 +1,1 @@
-# calculator
+python main.py "Update the calculator README.md with usage instructions and examples"
